@@ -7,3 +7,6 @@
 .vsconfig
 /Saved
 
+
+/Plugins/MultiplayerSessions/Binaries
+/Plugins/MultiplayerSessions/Intermediate
